@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+div{
+    border-radius: 50px;
+    width: 50%;
+    height: 45%;
+    padding: 10%;
+    padding-right: 20%; 
+    margin: auto; 
+    color: seashell;
+    font-size: 20;
+    background-color: rgb(63, 63, 63);
+    
+}
+
+h1{
+    font-size: 28pt;
+    color: rgb(255, 251, 0)
+}
+
+#enviar{
+    position: relative;
+    left: 0px;
+    color: rgb(0, 0, 0);
+    font-size: 20;
+    background-color: rgb(255, 255, 255);
+}
+
+#limpar{
+    left: 5px;
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: 20;
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 15pt; 
+    text-align: left;
+}
+.p{
+    color: rgb(251, 255, 0);
+}
+.img{
+    left: 700px;
+    position: relative;
+    top: 500px;
+    width: 500px;
+    height: 500px;
+}
